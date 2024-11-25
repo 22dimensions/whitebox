@@ -81,6 +81,10 @@ users:
   - https://github.com/opensourceways/xihe-script
   - https://github.com/opensourceways/xihe-extra-services
   - https://github.com/opensourceways/xihe-statistics
+  - https://github.com/opensourceways/xihe-message-server
+  - https://github.com/opensourceways/xihe-sdk
+  - https://github.com/opensourceways/xihe-audit-server
+  - https://github.com/opensourceways/xihe-audit-sdk
   - https://github.com/opensourceways/infra-mindspore
   - https://github.com/drizzlezyk/MindSpore-competition
   - https://github.com/drizzlezyk/xihe_tutorial
@@ -89,6 +93,9 @@ users:
   - https://github.com/openmerlin/merlin-server
   - https://github.com/openmerlin/merlin-sdk
   - https://github.com/openmerlin/merlin-message-server
+  - https://gitee.com/modelers/merlin-server
+  - https://gitee.com/modelers/merlin-message-server
+  - https://gitee.com/modelers/merlin-sdk
   
 - name: 'Zeng Chen'
   gitee_id: 'zengchen1024'
@@ -321,14 +328,6 @@ users:
   # GithubAction aarch64 on x86
   - https://github.com/uraimo/run-on-arch-action
 
-- name: 'Yuanke Zhong'
-  gitee_id: 'drizzlezyk'
-  github_id: 'drizzlezyk'
-  repos:
-  - https://github.com/drizzlezyk/MindSpore-competition
-  - https://github.com/drizzlezyk/xihe_tutorial
-  - https://github.com/drizzlezyk/CodeGeeX-deploy
-  - https://github.com/drizzlezyk/pangu-deploy
 
 - name: "li chaoran"
   gitee_id: 'mywaaagh_admin'
