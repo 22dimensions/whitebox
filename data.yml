@@ -1008,6 +1008,15 @@ users:
     - https://github.com/opensourceways/robot-gitee-lifecycle
     - https://github.com/opensourceways/robot-gitee-scavenger
     - https://github.com/opensourceways/mirrorbits
+    - https://github.com/opensourceways/go-gitcode
+    - https://github.com/opensourceways/robot-framework-lib
+    - https://github.com/opensourceways/robot-universal-hook-delivery
+    - https://github.com/opensourceways/robot-universal-access
+    - https://github.com/opensourceways/robot-universal-welcome
+    - https://github.com/opensourceways/robot-universal-review
+    - https://github.com/opensourceways/robot-universal-cla
+    - https://github.com/opensourceways/robot-universal-label
+    - https://github.com/opensourceways/robot-universal-lifecycle
 
 - name: 'Yi Zhou'
   gitee_id: 'Zherphy'
