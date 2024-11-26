@@ -1042,6 +1042,7 @@ users:
   github_id: 'Goalina'
   repos:
   - https://github.com/openmerlin/gitea
+  - https://github.com/opensourceways/BigFiles
   - https://github.com/openmerlin/git-access
   - https://github.com/openmerlin/merlin-website
   - https://gitee.com/modelers/gitea
@@ -1049,6 +1050,7 @@ users:
   - https://gitee.com/modelers/git-access
   repos_all_branches:
   - https://gitee.com/openmind-ai/openmind-hub
+  - https://gitee.com/modelers/openmind-hub
   
 - name: 'Yan Zhao'
   gitee_id: 'zy960'
@@ -1107,8 +1109,12 @@ users:
   - https://github.com/opensourceways/kafka-lib
   - https://gitee.com/modelers/moderation-server
   - https://gitee.com/modelers/gitea-hook-delivery
+  - https://gitee.com/modelers/space-server
+  - https://gitee.com/modelers/git-access-sdk
+  - https://gitee.com/openeuler/community
   repos_all_branches:
   - https://gitee.com/openmind-ai/openmind-hub
+  - https://gitee.com/modelers/openmind-hub
 
 
 - name: 'Zhihang Deng'
