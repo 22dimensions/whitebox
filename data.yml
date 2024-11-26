@@ -891,6 +891,8 @@ users:
     - https://github.com/microsoft/onnxruntime
     - https://github.com/ggerganov/llama.cpp
     - https://github.com/bachelor-dou/learning-notes
+    - https://github.com/ascend/docs
+    - https://gitee.com/Kunpeng/om-data
 
 - name: "Ming Cui"
   gitee_id: "mccpr"
