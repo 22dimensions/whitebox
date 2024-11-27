@@ -429,11 +429,14 @@ users:
   - https://github.com/openmerlin/merlin-website
   - https://github.com/openmerlin/docs
   - https://github.com/openmerlin/blogs
+  - https://github.com/openmerlin/openmind-resource-template
   - https://gitee.com/modelers/merlin-website
   - https://gitee.com/modelers/merlin-docs
   - https://gitee.com/modelers/merlin-blogs
+  - https://gitee.com/modelers/deploy
+  - https://gitee.com/modelers/openmind-resource-template
   # infra
-  - https://github.com/opensourceways/oneid-website
+  - https://github.com/opensourceways/easy-editor-website
   - https://github.com/opensourceways/happy-new-year
   repos_all_branches:
   # openEuler
@@ -449,6 +452,9 @@ users:
   - https://gitee.com/mindspore/website-v2
   # infra
   - https://github.com/opensourceways/app-cla-webui
+  - https://github.com/opensourceways/oneid-website
+  - https://github.com/opensourceways/app-repo
+  - https://github.com/opensourceways/openEuler-fully-theme
   # openUBMC
   - https://github.com/opensourceways/openUBMC-portal
 
