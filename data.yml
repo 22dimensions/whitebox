@@ -1166,3 +1166,11 @@ users:
   - https://github.com/2noise/ChatTTS
   - https://github.com/Ascend/docs
   - https://github.com/shen-shanshan/lscap
+
+- name: 'Xiaoshuang Wang'
+  gitee_id: 'wxsIcey'
+  github_id: 'wxsicey'
+  repos:
+  - https://gitee.com/mindspore/mindspore
+  - https://github.com/mindspore-lab/mindocr
+  - https://github.com/mindspore-lab/models
