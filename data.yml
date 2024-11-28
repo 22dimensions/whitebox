@@ -1174,3 +1174,14 @@ users:
   - https://gitee.com/mindspore/mindspore
   - https://github.com/mindspore-lab/mindocr
   - https://github.com/mindspore-lab/models
+
+- name: 'Junlong Zhang'
+  gitee_id: 'Junlong1'
+  github_id: 'zhangjunlongtech'
+  repos:
+  - https://gitee.com/mindspore/mindspore
+  - https://github.com/mindspore-lab/mindocr
+  - https://github.com/mindspore-lab/models
+  - https://github.com/opensourceways/xihe-inference-evaluate
+  - https://github.com/opensourcedot/mindocr
+  - https://github.com/tinyms-ai/tinyms
