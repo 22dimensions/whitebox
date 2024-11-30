@@ -1188,3 +1188,23 @@ users:
   - https://github.com/opensourceways/xihe-inference-evaluate
   - https://github.com/opensourcedot/mindocr
   - https://github.com/tinyms-ai/tinyms
+
+- name: 'Xinyue Yang'
+  gitee_id: 'yangxinyue-git'
+  github_id: 'yangxinyue-git'
+  repos:
+  - https://github.com/opensourceways/xihe-server
+  - https://github.com/opensourceways/xihe-aicc-finetune
+  - https://github.com/opensourceways/xihe-grpc-protocol
+  - https://github.com/opensourceways/xihe-training-center
+  - https://github.com/opensourceways/xihe-inference-evaluate
+  - https://github.com/opensourceways/xihe-script
+  - https://github.com/opensourceways/xihe-extra-services
+  - https://github.com/opensourceways/xihe-statistics
+  - https://github.com/opensourceways/xihe-message-server
+  - https://github.com/opensourceways/xihe-sdk
+  - https://github.com/opensourceways/xihe-audit-server
+  - https://github.com/opensourceways/xihe-audit-sdk
+  - https://github.com/opensourceways/deploy
+   repos-all-branches:
+  - https://github.com/opensourceways/xihe-server
