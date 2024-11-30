@@ -1226,3 +1226,12 @@ users:
   - https://github.com/opensourceways/xihe-server
   - https://github.com/opensourceways/xihe-audit-server
   - https://github.com/opensourceways/xihe-sdk
+
+- name: 'Xiaozhen Guo'
+  gitee_id: 'guoxiaozhen'
+  github_id: 'guoxiaozhen0304'
+  repos:
+  - https://gitee.com/opensourceway/test-management
+  repos_all_branches:
+  - https://gitee.com/opensourceway/test-management
+
