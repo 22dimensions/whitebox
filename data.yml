@@ -1208,3 +1208,12 @@ users:
   - https://github.com/opensourceways/deploy
   repos-all-branches:
   - https://github.com/opensourceways/xihe-server
+
+
+- name: 'Xiaozhen Guo'
+  gitee_id: 'guoxiaozhen'
+  github_id: 'guoxiaozhen0304'
+  repos:
+  - https://gitee.com/opensourceway/test-management
+  repos_all_branches:
+  - https://gitee.com/opensourceway/test-management
