@@ -254,9 +254,12 @@ users:
   - https://github.com/openmerlin/space-server
   - https://github.com/openmerlin/space-k8s-operator
   - https://github.com/openmerlin/image-build-tool
+  - https://github.com/vllm-project/vllm
   - https://gitee.com/openmind-ai/openmind
   - https://gitee.com/openmind-ai/openmind-hub
   - https://gitee.com/openmind-ai/infra
+  - https://gitee.com/modelers/space-server
+  - https://gitee.com/modelers/flexcompute-server
 
 - name: 'Zhenyu Zheng'
   gitee_id: 'zhengzhenyu'
