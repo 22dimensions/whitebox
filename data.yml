@@ -1209,6 +1209,23 @@ users:
   repos-all-branches:
   - https://github.com/opensourceways/xihe-server
 
+- name: 'Haodong Song'
+  gitee_id: 'hdsong2'
+  github_id: 'hdsong2'
+  repos:
+  - https://github.com/opensourceways/xihe-server
+  - https://github.com/opensourceways/xihe-grpc-protocol
+  - https://github.com/opensourceways/xihe-inference-evaluate
+  - https://github.com/opensourceways/xihe-extra-services
+  - https://github.com/opensourceways/xihe-statistics
+  - https://github.com/opensourceways/xihe-message-server
+  - https://github.com/opensourceways/xihe-sdk
+  - https://github.com/opensourceways/xihe-audit-server
+  - https://github.com/opensourceways/deploy
+  repos_all_branches:
+  - https://github.com/opensourceways/xihe-server
+  - https://github.com/opensourceways/xihe-audit-server
+  - https://github.com/opensourceways/xihe-sdk
 
 - name: 'Xiaozhen Guo'
   gitee_id: 'guoxiaozhen'
@@ -1217,3 +1234,4 @@ users:
   - https://gitee.com/opensourceway/test-management
   repos_all_branches:
   - https://gitee.com/opensourceway/test-management
+
