@@ -1206,5 +1206,5 @@ users:
   - https://github.com/opensourceways/xihe-audit-server
   - https://github.com/opensourceways/xihe-audit-sdk
   - https://github.com/opensourceways/deploy
-   repos-all-branches:
+  repos-all-branches:
   - https://github.com/opensourceways/xihe-server
