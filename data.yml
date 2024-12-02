@@ -1208,7 +1208,7 @@ users:
   - https://github.com/opensourceways/xihe-audit-server
   - https://github.com/opensourceways/xihe-audit-sdk
   - https://github.com/opensourceways/deploy
-  repos-all-branches:
+  repos_all_branches:
   - https://github.com/opensourceways/xihe-server
 
 - name: 'Haodong Song'
