@@ -1190,7 +1190,7 @@ users:
   - https://github.com/tinyms-ai/tinyms
 
 - name: 'Xinyue Yang'
-  gitee_id: 'yangxinyue-git'
+  gitee_id: 'yang_xinyuesgit'
   github_id: 'yangxinyue-git'
   repos:
   - https://github.com/opensourceways/xihe-server
