@@ -1248,9 +1248,10 @@ users:
   - https://github.com/Open-Infra-Ops/huaweicloud-tools
   - https://github.com/Open-Infra-Ops/jenkins-tools
   - https://github.com/opensourceways/issue_pr_board
-
+  - https://gitcode.com/openUBMC/infrastructure
+  - https://gitcode.com/openUBMC/openubmc-ci
+  - https://gitcode.com/openUBMC/community
   repos_all_branches:
   - https://github.com/opensourceways/app-meeting-server
   - https://github.com/opensourceways/etherpad-lite
-
 
