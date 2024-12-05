@@ -1237,3 +1237,20 @@ users:
   repos_all_branches:
   - https://gitee.com/opensourceway/test-management
 
+- name: 'Chao zhu'
+  gitee_id: 'Tom_zc'
+  github_id: 'TomNewChao'
+  repos:
+  - https://github.com/opensourceways/meeting-platform
+  - https://github.com/opensourceways/meeting-center
+  - https://github.com/opensourceways/mailman
+  - https://github.com/opensourceways/robot-openeuler-ci-tools
+  - https://github.com/Open-Infra-Ops/huaweicloud-tools
+  - https://github.com/Open-Infra-Ops/jenkins-tools
+  - https://github.com/opensourceways/issue_pr_board
+
+  repos_all_branches:
+  - https://github.com/opensourceways/app-meeting-server
+  - https://github.com/opensourceways/etherpad-lite
+
+
