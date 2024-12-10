@@ -767,7 +767,7 @@ users:
 
 - name: 'Zesheng Zong'
   gitee_id: 'hippocookie'
-  github_id: 'hippocookie'
+  github_id: 'zeshengzong'
   repos:
   - https://github.com/pytorch/pytorch
   - https://github.com/pytorch/tutorials
