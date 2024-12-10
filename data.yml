@@ -773,6 +773,8 @@ users:
   - https://github.com/pytorch/tutorials
   - https://github.com/PyTorch-China/pytorch-china.github.io
   - https://github.com/PyTorch-China/tutorials
+  - https://github.com/cosdt/torch_backend
+  - https://github.com/cosdt/pytorch-integration-tests
 
 - name: 'Yuanhao Ji'
   gitee_id: 'tsund'
