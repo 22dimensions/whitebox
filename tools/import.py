@@ -18,6 +18,9 @@ def _get_user_id(user, repo):
         user_id = user.get('gitlab_id', '')
     elif 'huggingface.co' in repo:
         user_id = user.get('hf_id', '')
+    elif 'gitcode.com' in repo:
+        # TODO: will add gitcode next time
+        user_id = user.get('gitcode_id', 'unknown')
     if not user_id:
         print("ERROR: Can't load the (%s) user id, "
               "Pls specify %s (gitee|github|gitlab|hf)_id." % (user_name, repo))
