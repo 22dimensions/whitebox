@@ -986,6 +986,8 @@ users:
   - https://gitee.com/mindspore/mindspore
   - https://github.com/mindspore-lab/mindocr
   - https://github.com/tinyms-ai/tinyms
+  - https://github.com/opensourcedot/mindocr
+  - https://github.com/openvinotoolkit/openvino
 
 - name: "Nengjun Ma"
   gitee_id: "pony-leo"
@@ -1144,6 +1146,8 @@ users:
   repos:
   - https://gitee.com/mindspore/mindspore
   - https://github.com/mindspore-lab/mindocr
+  - https://github.com/opensourcedot/mindocr
+  - https://github.com/openvinotoolkit/openvino
 
 - name: "Zhenbin Lin"
   gitee_id: "Zhenbin-8"
@@ -1181,6 +1185,8 @@ users:
   - https://gitee.com/mindspore/mindspore
   - https://github.com/mindspore-lab/mindocr
   - https://github.com/mindspore-lab/models
+  - https://github.com/opensourcedot/mindocr
+  - https://github.com/openvinotoolkit/openvino
 
 - name: 'Junlong Zhang'
   gitee_id: 'Junlong1'
@@ -1192,6 +1198,7 @@ users:
   - https://github.com/opensourceways/xihe-inference-evaluate
   - https://github.com/opensourcedot/mindocr
   - https://github.com/tinyms-ai/tinyms
+  - https://github.com/openvinotoolkit/openvino
 
 - name: 'Xinyue Yang'
   gitee_id: 'yang_xinyuesgit'
