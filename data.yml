@@ -1085,6 +1085,7 @@ users:
   repos:
     - https://gitee.com/openeuler/eulerpublisher
     - https://gitee.com/openeuler/openeuler-docker-images
+    - https://gitee.com/oepkgs/oepkgs-management
 
 - name: 'Chengzhi Xie'
   gitee_id: 'cccabushi'
