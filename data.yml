@@ -792,9 +792,6 @@ users:
     - https://github.com/cosdt/torch_backend
     - https://github.com/openmerlin/dockerfile
   # Optional, fetch all branches of repos
-  repos_all_branches:
-    - https://github.com/pytorch/pytorch
-    - https://gitee.com/ascend/pytorch
 
 - name: 'liuqi'
   gitee_id: 'liuqi469227928'
