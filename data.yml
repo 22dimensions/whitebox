@@ -1266,21 +1266,21 @@ users:
   - https://github.com/opensourceways/app-meeting-server
   - https://github.com/opensourceways/etherpad-lite
 
-name: 'heluwei'
+- name: 'heluwei'
   gitee_id: 'helloway'
   github_id: 'hellowaywewe'
   repos:
-    - https://github.com/opensourcedot/mindspore-spaces
-    - https://github.com/opensourcedot/xihe-cases
-    - https://github.com/hellowaywewe/deeplearning
-    - https://github.com/tinyms/tinyms
-    - https://github.com/hellowaywewe/species-detection
-    - https://gitee.com/mindspore/community
-    - https://github.com/hellowaywewe/mindspore-jina-try
-    - https://github.com/mindspore-ai/mindspore-21-days-tutorials
-    - https://github.com/hellowaywewe/mindcon
-    - https://github.com/opensourceways/xihe-script
-    - https://github.com/opensourceways/xihe-inference-evaluate
-    - https://github.com/huggingface/hub-docs
-    - https://github.com/huggingface/api-inference-community
+  - https://github.com/opensourcedot/mindspore-spaces
+  - https://github.com/opensourcedot/xihe-cases
+  - https://github.com/hellowaywewe/deeplearning
+  - https://github.com/tinyms/tinyms
+  - https://github.com/hellowaywewe/species-detection
+  - https://gitee.com/mindspore/community
+  - https://github.com/hellowaywewe/mindspore-jina-try
+  - https://github.com/mindspore-ai/mindspore-21-days-tutorials
+  - https://github.com/hellowaywewe/mindcon
+  - https://github.com/opensourceways/xihe-script
+  - https://github.com/opensourceways/xihe-inference-evaluate
+  - https://github.com/huggingface/hub-docs
+  - https://github.com/huggingface/api-inference-community
 
