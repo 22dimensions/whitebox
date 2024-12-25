@@ -1283,3 +1283,15 @@ users:
   - https://github.com/huggingface/api-inference-community
   repos_all_branches:
   - https://github.com/opensourcedot/mindspore-spaces
+
+- name: 'Ronnie_zheng'
+  gitee_id: 'Ronnie_zheng'
+  github_id: ''
+  repos:
+  - https://gitee.com/Ronnie_zheng/MindIE-Service
+  - https://gitee.com/Ronnie_zheng/MindIE-LLM
+  - https://gitee.com/Ronnie_zheng/MindIE-LLM_BatchScheduler
+  - https://gitee.com/Ronnie_zheng/MindIE-SD
+  - https://gitee.com/Ronnie_zheng/MindIE-Torch
+  - https://gitee.com/Ronnie_zheng/MindIE-RT
+  - https://gitee.com/Ronnie_zheng/ascend-faster-transformer
