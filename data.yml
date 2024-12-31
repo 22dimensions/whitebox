@@ -68,6 +68,7 @@ users:
   repos_all_branches:
   - https://gitee.com/opensourceway/EasySoftwareService
   - https://github.com/opensourceways/EasySoftwareService
+  - https://github.com/opensourceways/om-collection
 
 - name: 'zhongyuanke'
   gitee_id: 'drizzlezyk'
