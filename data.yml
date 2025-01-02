@@ -1094,9 +1094,9 @@ users:
   - https://github.com/opensourceways/datastat-server
   - https://github.com/opensourceways/EasySoftwareService
   - https://github.com/opensourceways/EasySoftwareInput
-  - https://github.com/opensourceways/EasySearch-Import
   repos_all_branches:
   - https://github.com/opensourceways/EasySearch
+  - https://github.com/opensourceways/EasySearch-Import
 
 - name: 'Runze Hou'
   gitee_id: 'MaoMao19970922'
