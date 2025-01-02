@@ -246,6 +246,7 @@ users:
   - https://github.com/Open-Infra-Ops/jenkins-tools
   - https://github.com/Open-Infra-Ops/docs
   - https://github.com/Open-Infra-Ops/sbom_server_dev
+  - https://github.com/Open-Infra-Ops/ops-script
 
 - name: 'Xiyuan Wang'
   gitee_id: 'xiyuanwang'
