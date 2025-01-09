@@ -734,11 +734,12 @@ users:
 - name: 'Wenjie Zhai'
   gitee_id: 'zwjsec'
   github_id: 'ZWJason'
-  repos:
+  repos_all_branches:
   - https://gitee.com/opensourceway/EasySoftwareInput
   - https://gitee.com/opensourceway/EasySoftwareService
   - https://github.com/opensourceways/EasySoftwareInput
   - https://github.com/opensourceways/easysoftware-autoupgrade
+  - https://github.com/opensourceways/EasySearch
 
 - name: 'LiYanghang'
   gitee_id: 'LiYanghang00'
