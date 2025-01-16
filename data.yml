@@ -1298,3 +1298,12 @@ users:
   - https://gitee.com/Ronnie_zheng/MindIE-Torch
   - https://gitee.com/Ronnie_zheng/MindIE-RT
   - https://gitee.com/Ronnie_zheng/ascend-faster-transformer
+
+- name: 'caiping wu'
+  gitee_id: 'kaede10'
+  github_id: 'kaede10'
+  repos_all_branches:
+  - https://github.com/opensourceways/DataMagic
+  - https://github.com/opensourceways/om-collection
+  - https://gitee.com/opensourceways/datastat-server
+  - https://gitee.com/opensourceways/om-kafka
