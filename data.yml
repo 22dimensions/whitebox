@@ -1307,3 +1307,11 @@ users:
   - https://github.com/opensourceways/om-collection
   - https://gitee.com/opensourceways/datastat-server
   - https://gitee.com/opensourceways/om-kafka
+
+- name: 'zhaokh'
+  gitee_id: 'zkhzkhz'
+  github_id: 'zkhzkhz'
+  repos:
+  - https://github.com/opensourceways/codearts-ci-config
+  repos_all_branches:
+  - https://github.com/opensourceways/codearts-ci-config
