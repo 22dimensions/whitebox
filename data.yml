@@ -30,6 +30,8 @@ users:
   - https://gitee.com/openeuler/TC
   - https://github.com/bioconda/bioconda-utils
   - https://github.com/cosdt/dockerfiles
+  - https://github.com/cosdt/vllm-ascend
+  - https://github.com/vllm-project/vllm-ascend
   - https://github.com/openmerlin/merlin
   # Optional, fetch all branches of repos
   repos_all_branches:
