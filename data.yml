@@ -742,6 +742,8 @@ users:
   - https://github.com/opensourceways/EasySoftwareInput
   - https://github.com/opensourceways/easysoftware-autoupgrade
   - https://github.com/opensourceways/EasySearch
+  - https://github.com/opensourceways/EasySearch-RAGSearch
+  - https://github.com/opensourceways/EasySearch-RAGSearch-frontend
 
 - name: 'LiYanghang'
   gitee_id: 'LiYanghang00'
