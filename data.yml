@@ -80,7 +80,7 @@ users:
   - https://github.com/opensourceways/xihe-aicc-finetune
   - https://github.com/opensourceways/xihe-grpc-protocol
   - https://github.com/opensourceways/xihe-training-center
-  - https://github.com/opensourceways/xihe-inference-evaluate
+  - https://github.com/opensourceways/xihe-jupyter-server
   - https://github.com/opensourceways/xihe-script
   - https://github.com/opensourceways/xihe-extra-services
   - https://github.com/opensourceways/xihe-statistics
@@ -88,6 +88,14 @@ users:
   - https://github.com/opensourceways/xihe-sdk
   - https://github.com/opensourceways/xihe-audit-server
   - https://github.com/opensourceways/xihe-audit-sdk
+  - https://github.com/opensourceways/xihe-audit-sync-server
+  - https://github.com/opensourceways/xihe-audit-sync-sdk
+  - https://github.com/opensourceways/xihe-cronjob
+  - https://github.com/opensourceways/xihe-gitlab-hook-delivery
+  - https://github.com/opensourceways/xihe-sync-repo
+  - https://github.com/opensourceways/space-k8s-operator
+  - https://github.com/opensourceways/space-server
+  - https://github.com/opensourceways/flexcompute-server
   - https://github.com/opensourceways/infra-mindspore
   - https://github.com/drizzlezyk/MindSpore-competition
   - https://github.com/drizzlezyk/xihe_tutorial
@@ -934,14 +942,23 @@ users:
   gitee_id: 'hfadzxy'
   github_id: 'hfadzxy'
   repos:
-  - https://github.com/openmerlin/space-server
-  - https://github.com/openmerlin/space-server-monitor
-  - https://github.com/openmerlin/image-build-tool
-  - https://github.com/openmerlin/space-k8s-operator
-  - https://github.com/openmerlin/space-moderation-proxy
-  - https://gitee.com/modelers/space-server
-  - https://gitee.com/modelers/flexcompute-server
-  - https://gitee.com/modelers/space-k8s-operator
+  - https://github.com/opensourceways/xihe-server
+  - https://github.com/opensourceways/xihe-aicc-finetune
+  - https://github.com/opensourceways/xihe-grpc-protocol
+  - https://github.com/opensourceways/xihe-training-center
+  - https://github.com/opensourceways/xihe-jupyter-server
+  - https://github.com/opensourceways/xihe-script
+  - https://github.com/opensourceways/xihe-extra-services
+  - https://github.com/opensourceways/xihe-statistics
+  - https://github.com/opensourceways/xihe-message-server
+  - https://github.com/opensourceways/xihe-sdk
+  - https://github.com/opensourceways/xihe-audit-server
+  - https://github.com/opensourceways/xihe-audit-sdk
+  - https://github.com/opensourceways/xihe-audit-sync-server
+  - https://github.com/opensourceways/xihe-audit-sync-sdk
+  - https://github.com/opensourceways/xihe-cronjob
+  - https://github.com/opensourceways/xihe-gitlab-hook-delivery
+  - https://github.com/opensourceways/xihe-sync-repo
 
 - name: 'Yu Liu'
   gitee_id: 'liuyu18801113053'
@@ -1216,7 +1233,7 @@ users:
   - https://github.com/opensourceways/xihe-aicc-finetune
   - https://github.com/opensourceways/xihe-grpc-protocol
   - https://github.com/opensourceways/xihe-training-center
-  - https://github.com/opensourceways/xihe-inference-evaluate
+  - https://github.com/opensourceways/xihe-jupyter-server
   - https://github.com/opensourceways/xihe-script
   - https://github.com/opensourceways/xihe-extra-services
   - https://github.com/opensourceways/xihe-statistics
@@ -1224,27 +1241,39 @@ users:
   - https://github.com/opensourceways/xihe-sdk
   - https://github.com/opensourceways/xihe-audit-server
   - https://github.com/opensourceways/xihe-audit-sdk
-  - https://github.com/opensourceways/deploy
-  repos_all_branches:
-  - https://github.com/opensourceways/xihe-server
+  - https://github.com/opensourceways/xihe-audit-sync-server
+  - https://github.com/opensourceways/xihe-audit-sync-sdk
+  - https://github.com/opensourceways/xihe-cronjob
+  - https://github.com/opensourceways/xihe-gitlab-hook-delivery
+  - https://github.com/opensourceways/xihe-sync-repo
+  - https://github.com/opensourceways/space-k8s-operator
+  - https://github.com/opensourceways/space-server
+  - https://github.com/opensourceways/flexcompute-server
 
 - name: 'Haodong Song'
   gitee_id: 'hdsong2'
   github_id: 'hdsong2'
   repos:
   - https://github.com/opensourceways/xihe-server
+  - https://github.com/opensourceways/xihe-aicc-finetune
   - https://github.com/opensourceways/xihe-grpc-protocol
-  - https://github.com/opensourceways/xihe-inference-evaluate
+  - https://github.com/opensourceways/xihe-training-center
+  - https://github.com/opensourceways/xihe-jupyter-server
+  - https://github.com/opensourceways/xihe-script
   - https://github.com/opensourceways/xihe-extra-services
   - https://github.com/opensourceways/xihe-statistics
   - https://github.com/opensourceways/xihe-message-server
   - https://github.com/opensourceways/xihe-sdk
   - https://github.com/opensourceways/xihe-audit-server
-  - https://github.com/opensourceways/deploy
-  repos_all_branches:
-  - https://github.com/opensourceways/xihe-server
-  - https://github.com/opensourceways/xihe-audit-server
-  - https://github.com/opensourceways/xihe-sdk
+  - https://github.com/opensourceways/xihe-audit-sdk
+  - https://github.com/opensourceways/xihe-audit-sync-server
+  - https://github.com/opensourceways/xihe-audit-sync-sdk
+  - https://github.com/opensourceways/xihe-cronjob
+  - https://github.com/opensourceways/xihe-gitlab-hook-delivery
+  - https://github.com/opensourceways/xihe-sync-repo
+  - https://github.com/opensourceways/space-k8s-operator
+  - https://github.com/opensourceways/space-server
+  - https://github.com/opensourceways/flexcompute-server
 
 - name: 'Xiaozhen Guo'
   gitee_id: 'guoxiaozhen'
