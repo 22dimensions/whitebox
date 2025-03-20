@@ -997,11 +997,15 @@ users:
   gitee_id: 'candyhong'
   github_id: 'hongziqi'
   repos:
+  - https://github.com/opensourceways/xihe-jupyter-server
+  - https://github.com/opensourceways/xihe-image-build
   - https://github.com/opensourceways/xihe-inference-evaluate
   - https://gitee.com/mindspore/mindspore
   - https://github.com/mindspore-lab/mindocr
+  - https://github.com/mindspore-lab/mindaudio
   - https://github.com/tinyms-ai/tinyms
   - https://github.com/opensourcedot/mindocr
+  - https://github.com/opensourcedot/xihe-cases
   - https://github.com/openvinotoolkit/openvino
 
 - name: "Nengjun Ma"
