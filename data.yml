@@ -1120,9 +1120,6 @@ users:
   gitee_id: 'MaoMao19970922'
   github_id: 'Hourunze1997'
   repos:
-  - https://github.com/opensourceways/message-manager
-  - https://github.com/opensourceways/message-transfer
-  - https://github.com/opensourceways/message-push
   - https://github.com/openmerlin/merlin-server
   - https://github.com/openmerlin/merlin-sdk
   - https://github.com/openmerlin/gitea
@@ -1130,11 +1127,16 @@ users:
   - https://github.com/openmerlin/git-access
   - https://github.com/openmerlin/moderation-service
   - https://github.com/openmerlin/moderation-service-sdk
-  - https://github.com/opensourceways/EasySoftware-autorepair
   - https://github.com/opensourceways/community-robot-lib
   - https://gitcode.com/openUBMC/software-center-importer
   - https://gitcode.com/openUBMC/software-center
+  repos_all_branches:
   - https://github.com/opensourceways/codearts-ci-config
+  - https://github.com/opensourceways/message-manager
+  - https://github.com/opensourceways/message-transfer
+  - https://github.com/opensourceways/message-push
+  - https://github.com/opensourceways/message-collect-cron
+  - https://github.com/opensourceways/EasySoftware-autorepair
 
 - name: 'Fangqun Ju'
   gitee_id: 'wj00037'
