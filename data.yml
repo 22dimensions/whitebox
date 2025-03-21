@@ -1130,6 +1130,11 @@ users:
   - https://github.com/openmerlin/git-access
   - https://github.com/openmerlin/moderation-service
   - https://github.com/openmerlin/moderation-service-sdk
+  - https://github.com/opensourceways/EasySoftware-autorepair
+  - https://github.com/opensourceways/community-robot-lib
+  - https://gitcode.com/openUBMC/software-center-importer
+  - https://gitcode.com/openUBMC/software-center
+  - https://github.com/opensourceways/codearts-ci-config
 
 - name: 'Fangqun Ju'
   gitee_id: 'wj00037'
