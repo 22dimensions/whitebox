@@ -973,6 +973,35 @@ users:
   - https://github.com/opensourceways/cve-manager-ng
   - https://github.com/Open-Infra-Ops/icms
   - https://github.com/opensourceways/ascend_optimization_scripts
+  - https://github.com/opensourceways/issue_state_monitor
+  - https://github.com/opensourceways/repo-file-cache
+  - https://github.com/opensourceways/robot-gitee-access
+  - https://github.com/opensourceways/robot-gitee-approve
+  - https://github.com/opensourceways/robot-gitee-assign
+  - https://github.com/opensourceways/robot-gitee-assign-issue
+  - https://github.com/opensourceways/robot-gitee-associate
+  - https://github.com/opensourceways/robot-gitee-checkpr
+  - https://github.com/opensourceways/robot-gitee-cla
+  - https://github.com/opensourceways/robot-gitee-cve-issue-suspending-check
+  - https://github.com/opensourceways/robot-gitee-label
+  - https://github.com/opensourceways/robot-gitee-lgtm
+  - https://github.com/opensourceways/robot-gitee-lifecycle
+  - https://github.com/opensourceways/robot-gitee-openeuler-review
+  - https://github.com/opensourceways/robot-gitee-openeuler-welcome
+  - https://github.com/opensourceways/robot-gitee-opengauss-review
+  - https://github.com/opensourceways/robot-gitee-opengauss-sigguide
+  - https://github.com/opensourceways/robot-gitee-repo-watcher
+  - https://github.com/opensourceways/robot-gitee-review-trigger
+  - https://github.com/opensourceways/robot-gitee-scavenger
+  - https://github.com/opensourceways/robot-gitee-sweepstakes
+  - https://github.com/opensourceways/robot-gitee-synchronizer
+  - https://github.com/opensourceways/robot-gitee-tech4dx-label
+  - https://github.com/opensourceways/robot-gitee-tide
+  - https://github.com/opensourceways/robot-gitee-welcome
+  - https://github.com/opensourceways/sync-file-server
+  - https://github.com/opensourceways/sync-repository-file
+  - https://github.com/opensourceways/robot-openeuler-ci-tools
+  - https://github.com/opensourceways/robot-universal-review
 
 - name: 'Kaiwen Zheng'
   gitee_id: 'rosecoffe'
