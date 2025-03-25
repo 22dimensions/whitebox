@@ -450,16 +450,21 @@ users:
   - https://gitee.com/modelers/merlin-docs
   - https://gitee.com/modelers/merlin-blogs
   - https://gitee.com/modelers/deploy
+  - https://gitee.com/modelers/docs
   - https://gitee.com/modelers/openmind-resource-template
   # infra
   - https://github.com/opensourceways/easy-editor-website
   - https://github.com/opensourceways/happy-new-year
+  - https://github.com/opensourceways/oneid-workbench-website
+  - https://github.com/opensourceways/secGear-website
+  - https://github.com/opensourceways/lfs-website
   repos_all_branches:
   # openEuler
   - https://gitee.com/openeuler/docs.git
   - https://gitee.com/openeuler/opendesign-components
   - https://gitee.com/openeuler/opendesign-build
   - https://gitee.com/openeuler/opendesign-templates
+  - https://gitee.com/gzbang-openeuler/docs-v2
   # openGauss
   - https://gitee.com/opengauss/website
   - https://gitee.com/opengauss/docs
@@ -471,6 +476,7 @@ users:
   - https://github.com/opensourceways/oneid-website
   - https://github.com/opensourceways/app-repo
   - https://github.com/opensourceways/openEuler-fully-theme
+  - https://github.com/opensourceways/datastat-manage-website
   # openUBMC
   - https://github.com/opensourceways/openUBMC-portal
 
