@@ -1010,10 +1010,19 @@ users:
   - https://github.com/opensourceways/robot-universal-review
 
 - name: 'Kaiwen Zheng'
-  gitee_id: 'rosecoffe'
+  gitee_id: 'rosespace'
   github_id: 'rosecoffe'
   repos:
   - https://github.com/Open-Infra-Ops/openApiTest
+  - https://github.com/opensourceways/infra-common
+  - https://github.com/opensourceways/infra-mindspore
+  - https://github.com/opensourceways/infra-community
+  - https://github.com/opensourceways/infra-openeuler
+  - https://github.com/opensourceways/infra-openubmc
+  - https://github.com/opensourceways/infra-openfuyao
+  - https://github.com/Open-Infra-Ops/ops-script
+  - https://gitee.com/modelers/infra
+  - https://gitee.com/opengauss/infra
 
 - name: 'Li Wang'
   gitee_id: 'Potabk'
