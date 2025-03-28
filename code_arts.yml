@@ -1,5 +1,5 @@
 users:
-- name: 'Meng Yuan'
+- name: 'Nie xinquan'
   gitee_id: ''
   github_id: ''
 
@@ -13,3 +13,7 @@ users:
   - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openlibing-sca
   - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openlibing-codecheck
   - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openlibing-apollo
+  - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openDTFuzz/fuzz
+  - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openDTFuzz/TBox
+  - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openDTFuzz/openlibing-fuzz
+  - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openDTFuzz/fuzz_build_entry
