@@ -976,8 +976,11 @@ users:
   repos:
   - https://github.com/opensourceways/cve-manager
   repos_all_branches:
-  - https://github.com/opensourceways/cve-manager-ng
   - https://github.com/Open-Infra-Ops/icms
+  - https://github.com/Open-Infra-Ops/invite-enterprise-members
+  - https://github.com/Open-Infra-Ops/v8-token-setter
+  - https://github.com/Open-Infra-Ops/robot-docs
+  - https://github.com/opensourceways/cve-manager-ng
   - https://github.com/opensourceways/ascend_optimization_scripts
   - https://github.com/opensourceways/issue_state_monitor
   - https://github.com/opensourceways/repo-file-cache
@@ -1008,6 +1011,9 @@ users:
   - https://github.com/opensourceways/sync-repository-file
   - https://github.com/opensourceways/robot-openeuler-ci-tools
   - https://github.com/opensourceways/robot-universal-review
+  - https://github.com/opensourceways/robot-gitee-keeper-approve
+  - https://github.com/opensourceways/community-robot-lib
+  - https://github.com/opensourceways/deploy
 
 - name: 'Kaiwen Zheng'
   gitee_id: 'rosecoffe'
