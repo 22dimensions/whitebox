@@ -1400,7 +1400,7 @@ users:
 
 - name: 'liutao'
   gitee_id: 'liu-tao491'
-  repos:
+  repos_all_branches:
   - https://gitee.com/Ronnie_zheng/MindIE-LLM_BatchScheduler
 
 
