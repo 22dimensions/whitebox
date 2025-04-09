@@ -1394,9 +1394,11 @@ users:
   repos:
   - https://github.com/opensourceways/discourse_docker
   - https://github.com/opensourceways/oneid-workbench
+  - https://github.com/opensourceways/om-webserver
   repos_all_branches:
   - https://github.com/opensourceways/discourse_docker
   - https://github.com/opensourceways/oneid-workbench
+  - https://github.com/opensourceways/om-webserver
 
 - name: 'liutao'
   gitee_id: 'liu-tao491'
