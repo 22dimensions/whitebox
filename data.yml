@@ -1379,6 +1379,8 @@ users:
   - https://gitee.com/opensourceways/datastat-server
   - https://gitee.com/opensourceways/om-kafka
   - https://gitee.com/openfuyao/clusters-computing-operator
+  - https://github.com/opensourceways/APImagic
+  - https://github.com/opensourceways/magicai
 
 - name: 'zhaokh'
   gitee_id: 'zkhzkhz'
