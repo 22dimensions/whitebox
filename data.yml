@@ -928,6 +928,7 @@ users:
     - https://gitee.com/bachelor-dou/notes
     - https://gitee.com/Kunpeng/om-data
     - https://gitee.com/bachelor-dou/om-data
+    - https://github.com/cosdt/llama.cpp.git
 
 - name: "Ming Cui"
   gitee_id: "mccpr"
