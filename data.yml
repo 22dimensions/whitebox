@@ -1361,7 +1361,7 @@ users:
 - name: 'Ronnie_zheng'
   gitee_id: 'Ronnie_zheng'
   github_id: ''
-  repos:
+  repos_all_branches:
   - https://gitee.com/Ronnie_zheng/MindIE-Service
   - https://gitee.com/Ronnie_zheng/MindIE-LLM
   - https://gitee.com/Ronnie_zheng/MindIE-LLM_BatchScheduler
@@ -1405,4 +1405,8 @@ users:
   repos_all_branches:
   - https://gitee.com/Ronnie_zheng/MindIE-LLM_BatchScheduler
 
-
+- name: 'Chen Chen'
+  gitee_id: ''
+  github_id: ''
+  repos:
+  - https://gitee.com/opengauss-dev/cantian
