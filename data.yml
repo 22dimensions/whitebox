@@ -1411,3 +1411,39 @@ users:
   github_id: ''
   repos:
   - https://gitee.com/opengauss-dev/cantian
+
+- name: 'OpenSource'
+  gitee_id: ''
+  github_id: ''
+  repos:
+  - https://github.com/huggingface/datatrove
+  - https://github.com/huggingface/transformers
+  - https://github.com/huggingface/peft
+  - https://github.com/huggingface/evaluate
+  - https://github.com/huggingface/trl
+  - https://github.com/huggingface/search-and-learn
+  - https://github.com/huggingface/open-r1
+  - https://github.com/pytorch/data
+  - https://github.com/pytorch/torchtitan
+  - https://github.com/pytorch/torchtune
+  - https://github.com/pytorch/tnt
+  - https://github.com/pytorch/torchchat
+  - https://github.com/pytorch/torchrec
+  - https://github.com/open-compass/opencompass
+  - https://github.com/open-compass/VLMEvalKit
+  - https://github.com/microsoft/DeepSeed
+  - https://github.com/internLM/xtuner
+  - https://github.com/InternLM/lmdeploy
+  - https://github.com/hiyouga/LLaMA-Factory
+  - https://github.com/EleutherAI/lm-evaluation-harness
+  - https://github.com/sgl-project/sglang
+  - https://github.com/comfyanonymous/ComfyUI
+  - https://github.com/OpenRLHF/OpenRLHF
+  - https://github.com/volcengine/verl
+  - https://github.com/openpsi-project/ReaLHF
+  - https://github.com/openreasoner/openr
+  - https://github.com/allenai/open-instruct
+  - https://github.com/hkust-nlp/simpleRL-reason
+  - https://github.com/Jiayi-Pan/TinyZero
+  
+  
