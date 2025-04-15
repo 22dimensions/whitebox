@@ -1431,7 +1431,7 @@ users:
   - https://github.com/pytorch/torchrec
   - https://github.com/open-compass/opencompass
   - https://github.com/open-compass/VLMEvalKit
-  - https://github.com/microsoft/DeepSeed
+  - https://github.com/deepspeedai/DeepSpeed
   - https://github.com/internLM/xtuner
   - https://github.com/InternLM/lmdeploy
   - https://github.com/hiyouga/LLaMA-Factory
