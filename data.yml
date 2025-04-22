@@ -1046,10 +1046,12 @@ users:
   - https://gitee.com/mindspore/mindspore
   - https://github.com/mindspore-lab/mindocr
   - https://github.com/mindspore-lab/mindaudio
+  - https://github.com/mindspore-lab/mindnlp
+  - https://github.com/mindspore-lab/mindone
   - https://github.com/tinyms-ai/tinyms
   - https://github.com/opensourcedot/mindocr
   - https://github.com/opensourcedot/xihe-cases
-  - https://github.com/openvinotoolkit/openvino
+  - https://github.com/opensourcedot/vllm
 
 - name: "Nengjun Ma"
   gitee_id: "pony-leo"
@@ -1210,7 +1212,8 @@ users:
   - https://gitee.com/mindspore/mindspore
   - https://github.com/mindspore-lab/mindocr
   - https://github.com/opensourcedot/mindocr
-  - https://github.com/openvinotoolkit/openvino
+  - https://github.com/opensourcedot/vllm
+  - https://github.com/opensourcedot/OpenR1-Qwen-7B
 
 - name: "Zhenbin Lin"
   gitee_id: "Zhenbin-8"
