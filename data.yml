@@ -30,6 +30,8 @@ users:
   - https://gitee.com/openeuler/TC
   - https://github.com/bioconda/bioconda-utils
   - https://github.com/cosdt/dockerfiles
+  - https://github.com/cosdt/vllm-ascend
+  - https://github.com/vllm-project/vllm-ascend
   - https://github.com/openmerlin/merlin
   # Optional, fetch all branches of repos
   repos_all_branches:
@@ -78,7 +80,7 @@ users:
   - https://github.com/opensourceways/xihe-aicc-finetune
   - https://github.com/opensourceways/xihe-grpc-protocol
   - https://github.com/opensourceways/xihe-training-center
-  - https://github.com/opensourceways/xihe-inference-evaluate
+  - https://github.com/opensourceways/xihe-jupyter-server
   - https://github.com/opensourceways/xihe-script
   - https://github.com/opensourceways/xihe-extra-services
   - https://github.com/opensourceways/xihe-statistics
@@ -86,6 +88,14 @@ users:
   - https://github.com/opensourceways/xihe-sdk
   - https://github.com/opensourceways/xihe-audit-server
   - https://github.com/opensourceways/xihe-audit-sdk
+  - https://github.com/opensourceways/xihe-audit-sync-server
+  - https://github.com/opensourceways/xihe-audit-sync-sdk
+  - https://github.com/opensourceways/xihe-cronjob
+  - https://github.com/opensourceways/xihe-gitlab-hook-delivery
+  - https://github.com/opensourceways/xihe-sync-repo
+  - https://github.com/opensourceways/space-k8s-operator
+  - https://github.com/opensourceways/space-server
+  - https://github.com/opensourceways/flexcompute-server
   - https://github.com/opensourceways/infra-mindspore
   - https://github.com/drizzlezyk/MindSpore-competition
   - https://github.com/drizzlezyk/xihe_tutorial
@@ -281,6 +291,7 @@ users:
   - https://github.com/opensourcedot/operation-insight
   repos_all_branches:
   - https://gitee.com/openeuler/eulerlauncher
+  - https://github.com/spdx/spdx-3-model
 
 - name: 'Jiawei Li'
   gitee_id: 'ffrog'
@@ -439,16 +450,21 @@ users:
   - https://gitee.com/modelers/merlin-docs
   - https://gitee.com/modelers/merlin-blogs
   - https://gitee.com/modelers/deploy
+  - https://gitee.com/modelers/docs
   - https://gitee.com/modelers/openmind-resource-template
   # infra
   - https://github.com/opensourceways/easy-editor-website
   - https://github.com/opensourceways/happy-new-year
+  - https://github.com/opensourceways/oneid-workbench-website
+  - https://github.com/opensourceways/secGear-website
+  - https://github.com/opensourceways/lfs-website
   repos_all_branches:
   # openEuler
   - https://gitee.com/openeuler/docs.git
   - https://gitee.com/openeuler/opendesign-components
   - https://gitee.com/openeuler/opendesign-build
   - https://gitee.com/openeuler/opendesign-templates
+  - https://gitee.com/gzbang-openeuler/docs-v2
   # openGauss
   - https://gitee.com/opengauss/website
   - https://gitee.com/opengauss/docs
@@ -460,6 +476,7 @@ users:
   - https://github.com/opensourceways/oneid-website
   - https://github.com/opensourceways/app-repo
   - https://github.com/opensourceways/openEuler-fully-theme
+  - https://github.com/opensourceways/datastat-manage-website
   # openUBMC
   - https://github.com/opensourceways/openUBMC-portal
 
@@ -734,11 +751,15 @@ users:
 - name: 'Wenjie Zhai'
   gitee_id: 'zwjsec'
   github_id: 'ZWJason'
-  repos:
+  repos_all_branches:
   - https://gitee.com/opensourceway/EasySoftwareInput
   - https://gitee.com/opensourceway/EasySoftwareService
   - https://github.com/opensourceways/EasySoftwareInput
   - https://github.com/opensourceways/easysoftware-autoupgrade
+  - https://github.com/opensourceways/EasySearch
+  - https://github.com/opensourceways/EasySearch-RAGSearch
+  - https://github.com/opensourceways/EasySearch-RAGSearch-frontend
+  - https://github.com/opensourceways/EasySoftware-autorepair
 
 - name: 'LiYanghang'
   gitee_id: 'LiYanghang00'
@@ -908,6 +929,7 @@ users:
     - https://gitee.com/bachelor-dou/notes
     - https://gitee.com/Kunpeng/om-data
     - https://gitee.com/bachelor-dou/om-data
+    - https://github.com/cosdt/llama.cpp.git
 
 - name: "Ming Cui"
   gitee_id: "mccpr"
@@ -956,9 +978,44 @@ users:
   repos:
   - https://github.com/opensourceways/cve-manager
   repos_all_branches:
-  - https://github.com/opensourceways/cve-manager-ng
   - https://github.com/Open-Infra-Ops/icms
+  - https://github.com/Open-Infra-Ops/invite-enterprise-members
+  - https://github.com/Open-Infra-Ops/v8-token-setter
+  - https://github.com/Open-Infra-Ops/robot-docs
+  - https://github.com/opensourceways/cve-manager-ng
   - https://github.com/opensourceways/ascend_optimization_scripts
+  - https://github.com/opensourceways/issue_state_monitor
+  - https://github.com/opensourceways/repo-file-cache
+  - https://github.com/opensourceways/robot-gitee-access
+  - https://github.com/opensourceways/robot-gitee-approve
+  - https://github.com/opensourceways/robot-gitee-assign
+  - https://github.com/opensourceways/robot-gitee-assign-issue
+  - https://github.com/opensourceways/robot-gitee-associate
+  - https://github.com/opensourceways/robot-gitee-checkpr
+  - https://github.com/opensourceways/robot-gitee-cla
+  - https://github.com/opensourceways/robot-gitee-cve-issue-suspending-check
+  - https://github.com/opensourceways/robot-gitee-label
+  - https://github.com/opensourceways/robot-gitee-lgtm
+  - https://github.com/opensourceways/robot-gitee-lifecycle
+  - https://github.com/opensourceways/robot-gitee-openeuler-review
+  - https://github.com/opensourceways/robot-gitee-openeuler-welcome
+  - https://github.com/opensourceways/robot-gitee-opengauss-review
+  - https://github.com/opensourceways/robot-gitee-opengauss-sigguide
+  - https://github.com/opensourceways/robot-gitee-repo-watcher
+  - https://github.com/opensourceways/robot-gitee-review-trigger
+  - https://github.com/opensourceways/robot-gitee-scavenger
+  - https://github.com/opensourceways/robot-gitee-sweepstakes
+  - https://github.com/opensourceways/robot-gitee-synchronizer
+  - https://github.com/opensourceways/robot-gitee-tech4dx-label
+  - https://github.com/opensourceways/robot-gitee-tide
+  - https://github.com/opensourceways/robot-gitee-welcome
+  - https://github.com/opensourceways/sync-file-server
+  - https://github.com/opensourceways/sync-repository-file
+  - https://github.com/opensourceways/robot-openeuler-ci-tools
+  - https://github.com/opensourceways/robot-universal-review
+  - https://github.com/opensourceways/robot-gitee-keeper-approve
+  - https://github.com/opensourceways/community-robot-lib
+  - https://github.com/opensourceways/deploy
 
 - name: 'Kaiwen Zheng'
   gitee_id: 'rosecoffe'
@@ -983,11 +1040,15 @@ users:
   gitee_id: 'candyhong'
   github_id: 'hongziqi'
   repos:
+  - https://github.com/opensourceways/xihe-jupyter-server
+  - https://github.com/opensourceways/xihe-image-build
   - https://github.com/opensourceways/xihe-inference-evaluate
   - https://gitee.com/mindspore/mindspore
   - https://github.com/mindspore-lab/mindocr
+  - https://github.com/mindspore-lab/mindaudio
   - https://github.com/tinyms-ai/tinyms
   - https://github.com/opensourcedot/mindocr
+  - https://github.com/opensourcedot/xihe-cases
   - https://github.com/openvinotoolkit/openvino
 
 - name: "Nengjun Ma"
@@ -1170,15 +1231,16 @@ users:
   gitee_id: 'shenshanshan0918'
   github_id: 'shen-shanshan'
   repos:
-  - https://gitee.com/kunpengcompute/om-data
-  - https://github.com/ggerganov/llama.cpp
-  - https://github.com/sgl-project/sglang
   - https://github.com/2noise/ChatTTS
-  - https://github.com/Ascend/docs
-  - https://github.com/wangshuai09/vllm
+  - https://github.com/ggerganov/llama.cpp
   - https://github.com/vllm-project/vllm
-  - https://github.com/opensourceways/whitebox
+  - https://github.com/vllm-project/vllm-ascend
+  - https://github.com/cosdt/vllm-ascend
+  - https://github.com/cosdt/vllm-study
   - https://github.com/open-source-now/technical-articles
+  - https://github.com/Ascend/docs
+  - https://github.com/opensourceways/whitebox
+  - https://gitee.com/kunpengcompute/om-data
 
 - name: 'Xiaoshuang Wang'
   gitee_id: 'wxsIcey'
@@ -1210,7 +1272,7 @@ users:
   - https://github.com/opensourceways/xihe-aicc-finetune
   - https://github.com/opensourceways/xihe-grpc-protocol
   - https://github.com/opensourceways/xihe-training-center
-  - https://github.com/opensourceways/xihe-inference-evaluate
+  - https://github.com/opensourceways/xihe-jupyter-server
   - https://github.com/opensourceways/xihe-script
   - https://github.com/opensourceways/xihe-extra-services
   - https://github.com/opensourceways/xihe-statistics
@@ -1218,27 +1280,39 @@ users:
   - https://github.com/opensourceways/xihe-sdk
   - https://github.com/opensourceways/xihe-audit-server
   - https://github.com/opensourceways/xihe-audit-sdk
-  - https://github.com/opensourceways/deploy
-  repos_all_branches:
-  - https://github.com/opensourceways/xihe-server
+  - https://github.com/opensourceways/xihe-audit-sync-server
+  - https://github.com/opensourceways/xihe-audit-sync-sdk
+  - https://github.com/opensourceways/xihe-cronjob
+  - https://github.com/opensourceways/xihe-gitlab-hook-delivery
+  - https://github.com/opensourceways/xihe-sync-repo
+  - https://github.com/opensourceways/space-k8s-operator
+  - https://github.com/opensourceways/space-server
+  - https://github.com/opensourceways/flexcompute-server
 
 - name: 'Haodong Song'
   gitee_id: 'hdsong2'
   github_id: 'hdsong2'
   repos:
   - https://github.com/opensourceways/xihe-server
+  - https://github.com/opensourceways/xihe-aicc-finetune
   - https://github.com/opensourceways/xihe-grpc-protocol
-  - https://github.com/opensourceways/xihe-inference-evaluate
+  - https://github.com/opensourceways/xihe-training-center
+  - https://github.com/opensourceways/xihe-jupyter-server
+  - https://github.com/opensourceways/xihe-script
   - https://github.com/opensourceways/xihe-extra-services
   - https://github.com/opensourceways/xihe-statistics
   - https://github.com/opensourceways/xihe-message-server
   - https://github.com/opensourceways/xihe-sdk
   - https://github.com/opensourceways/xihe-audit-server
-  - https://github.com/opensourceways/deploy
-  repos_all_branches:
-  - https://github.com/opensourceways/xihe-server
-  - https://github.com/opensourceways/xihe-audit-server
-  - https://github.com/opensourceways/xihe-sdk
+  - https://github.com/opensourceways/xihe-audit-sdk
+  - https://github.com/opensourceways/xihe-audit-sync-server
+  - https://github.com/opensourceways/xihe-audit-sync-sdk
+  - https://github.com/opensourceways/xihe-cronjob
+  - https://github.com/opensourceways/xihe-gitlab-hook-delivery
+  - https://github.com/opensourceways/xihe-sync-repo
+  - https://github.com/opensourceways/space-k8s-operator
+  - https://github.com/opensourceways/space-server
+  - https://github.com/opensourceways/flexcompute-server
 
 - name: 'Xiaozhen Guo'
   gitee_id: 'guoxiaozhen'
@@ -1289,7 +1363,7 @@ users:
 - name: 'Ronnie_zheng'
   gitee_id: 'Ronnie_zheng'
   github_id: ''
-  repos:
+  repos_all_branches:
   - https://gitee.com/Ronnie_zheng/MindIE-Service
   - https://gitee.com/Ronnie_zheng/MindIE-LLM
   - https://gitee.com/Ronnie_zheng/MindIE-LLM_BatchScheduler
@@ -1297,3 +1371,80 @@ users:
   - https://gitee.com/Ronnie_zheng/MindIE-Torch
   - https://gitee.com/Ronnie_zheng/MindIE-RT
   - https://gitee.com/Ronnie_zheng/ascend-faster-transformer
+
+- name: 'caiping wu'
+  gitee_id: 'kaede10'
+  github_id: 'kaede10'
+  repos_all_branches:
+  - https://github.com/opensourceways/DataMagic
+  - https://github.com/opensourceways/om-collection
+  - https://gitee.com/opensourceways/datastat-server
+  - https://gitee.com/opensourceways/om-kafka
+  - https://gitee.com/openfuyao/clusters-computing-operator
+  - https://github.com/opensourceways/APImagic
+  - https://github.com/opensourceways/magicai
+
+- name: 'zhaokh'
+  gitee_id: 'zkhzkhz'
+  github_id: 'zkhzkhz'
+  repos:
+  - https://github.com/opensourceways/codearts-ci-config
+  repos_all_branches:
+  - https://github.com/opensourceways/codearts-ci-config
+
+- name: 'Yiwei Tao'
+  gitee_id: 'tao-evie'
+  github_id: 'evie-tao'
+  repos:
+  - https://github.com/opensourceways/discourse_docker
+  - https://github.com/opensourceways/oneid-workbench
+  repos_all_branches:
+  - https://github.com/opensourceways/discourse_docker
+  - https://github.com/opensourceways/oneid-workbench
+
+- name: 'liutao'
+  gitee_id: 'liu-tao491'
+  repos_all_branches:
+  - https://gitee.com/Ronnie_zheng/MindIE-LLM_BatchScheduler
+
+- name: 'Chen Chen'
+  gitee_id: ''
+  github_id: ''
+  repos:
+  - https://gitee.com/opengauss-dev/cantian
+
+- name: 'OpenSource'
+  gitee_id: ''
+  github_id: ''
+  repos:
+  - https://github.com/huggingface/datatrove
+  - https://github.com/huggingface/transformers
+  - https://github.com/huggingface/peft
+  - https://github.com/huggingface/evaluate
+  - https://github.com/huggingface/trl
+  - https://github.com/huggingface/search-and-learn
+  - https://github.com/huggingface/open-r1
+  - https://github.com/pytorch/data
+  - https://github.com/pytorch/torchtitan
+  - https://github.com/pytorch/torchtune
+  - https://github.com/pytorch/tnt
+  - https://github.com/pytorch/torchchat
+  - https://github.com/pytorch/torchrec
+  - https://github.com/open-compass/opencompass
+  - https://github.com/open-compass/VLMEvalKit
+  - https://github.com/deepspeedai/DeepSpeed
+  - https://github.com/internLM/xtuner
+  - https://github.com/InternLM/lmdeploy
+  - https://github.com/hiyouga/LLaMA-Factory
+  - https://github.com/EleutherAI/lm-evaluation-harness
+  - https://github.com/sgl-project/sglang
+  - https://github.com/comfyanonymous/ComfyUI
+  - https://github.com/OpenRLHF/OpenRLHF
+  - https://github.com/volcengine/verl
+  - https://github.com/openpsi-project/ReaLHF
+  - https://github.com/openreasoner/openr
+  - https://github.com/allenai/open-instruct
+  - https://github.com/hkust-nlp/simpleRL-reason
+  - https://github.com/Jiayi-Pan/TinyZero
+  
+  

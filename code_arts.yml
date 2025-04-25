@@ -1,0 +1,17 @@
+users:
+- name: 'Nie xinquan'
+  gitee_id: ''
+  github_id: ''
+
+  repos_all_branches:
+  - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openlibing-web
+  - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openlibing-framework
+  - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openlibing-gateway
+  - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openlibing-cicd
+  - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openlibing-eureka
+  - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openlibing-common
+  - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openlibing-platform-release
+  - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openDTFuzz/fuzz
+  - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openDTFuzz/TBox
+  - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openDTFuzz/openlibing-fuzz
+  - https://codehub.devcloud.cn-southwest-2.huaweicloud.com/709968f4a69145deba5559c5faf4eca8/openDTFuzz/fuzz_build_entry
