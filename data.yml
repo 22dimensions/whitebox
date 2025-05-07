@@ -738,9 +738,11 @@ users:
 - name: 'Zhonglin Gou'
   gitee_id: 'gi1tee'
   github_id: 'cllouud'
-  repos:
+  repos_all_branches:
   - https://gitee.com/opensourceway/EasySoftwareInput
   - https://gitee.com/opensourceway/EasySoftwareService
+  - https://github.com/ascend-gha-runners/docs
+  - https://github.com/ascend-gha-runners/org-archive
 
 - name: 'Long Jiang'
   gitee_id: 'jl-brother1'
