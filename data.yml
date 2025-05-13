@@ -1018,6 +1018,7 @@ users:
   - https://github.com/opensourceways/robot-gitee-keeper-approve
   - https://github.com/opensourceways/community-robot-lib
   - https://github.com/opensourceways/deploy
+  - https://github.com/opensourceways/gitcode-migrate-script
 
 - name: 'Kaiwen Zheng'
   gitee_id: 'rosespace'
