@@ -1425,12 +1425,12 @@ users:
 - name: 'Yiwei Tao'
   gitee_id: 'tao-evie'
   github_id: 'evie-tao'
-  repos:
-  - https://github.com/opensourceways/discourse_docker
-  - https://github.com/opensourceways/oneid-workbench
   repos_all_branches:
   - https://github.com/opensourceways/discourse_docker
   - https://github.com/opensourceways/oneid-workbench
+  - https://github.com/opensourceways/om-webserver
+  - https://github.com/opensourceways/discourse-easecheck
+  - https://github.com/opensourceways/discourse-multilingual
 
 - name: 'liutao'
   gitee_id: 'liu-tao491'
