@@ -1476,5 +1476,13 @@ users:
   - https://github.com/allenai/open-instruct
   - https://github.com/hkust-nlp/simpleRL-reason
   - https://github.com/Jiayi-Pan/TinyZero
+  - https://gitee.com/confidential_computing/python-os-resource-classes
+  - https://gitee.com/confidential_computing/python-os-traits
+  - https://gitee.com/confidential_computing/nova-23.2.2
+  - https://gitee.com/confidential_computing/kernel
+  - https://gitee.com/confidential_computing/libvirt
+  - https://gitee.com/confidential_computing/edk2
+  - https://gitee.com/confidential_computing/qemu
+  - https://gitee.com/confidential_computing/edk2-stable202308-openeuler
   
   
