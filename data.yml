@@ -743,6 +743,7 @@ users:
   - https://gitee.com/opensourceway/EasySoftwareService
   - https://github.com/ascend-gha-runners/docs
   - https://github.com/ascend-gha-runners/org-archive
+  - https://github.com/opensourceways/ascend-ci-deployment
 
 - name: 'Long Jiang'
   gitee_id: 'jl-brother1'
