@@ -431,7 +431,11 @@ users:
   - https://gitee.com/openeuler/opendesign
   - https://gitee.com/openeuler/opendesign-internship
   - https://github.com/opensourceways/software-package-website
-  - https://github.com/opensourceways/datastat-manage-website
+  - https://github.com/opensourceways/secGear-website
+  - https://github.com/opensourceways/lfs-website
+  - https://github.com/opensourceways/easywhisperx-website
+  - https://github.com/opensourceways/docs-lint
+  - https://gitee.com/openeuler/secGear
   # openGauss
   # MindSpore
   - https://gitee.com/mindspore/mindspore-portal
@@ -439,6 +443,7 @@ users:
   - https://gitee.com/mindspore/website-docs
   - https://gitee.com/mindspore/xihe-website
   - https://gitee.com/mindspore/xihe-docs
+  - https://gitee.com/mindspore/xihe-website-v2
   # openLooKeng
   - https://gitee.com/openlookeng/website-v2
   # openMind
@@ -456,27 +461,32 @@ users:
   - https://github.com/opensourceways/easy-editor-website
   - https://github.com/opensourceways/happy-new-year
   - https://github.com/opensourceways/oneid-workbench-website
-  - https://github.com/opensourceways/secGear-website
-  - https://github.com/opensourceways/lfs-website
+  - https://github.com/opensourceways/datastat-manage-website
+  - https://github.com/opensourceways/oneid-workbench-website
+  # other
+  - https://github.com/opensourceways/vLLM-dashboard-website
+  - https://github.com/opensourceways/meeting-cann-website
   repos_all_branches:
   # openEuler
   - https://gitee.com/openeuler/docs.git
+  - https://gitee.com/gzbang-openeuler/docs-v2
+  # sig
   - https://gitee.com/openeuler/opendesign-components
   - https://gitee.com/openeuler/opendesign-build
   - https://gitee.com/openeuler/opendesign-templates
-  - https://gitee.com/gzbang-openeuler/docs-v2
   # openGauss
   - https://gitee.com/opengauss/website
   - https://gitee.com/opengauss/docs
   - https://gitee.com/opengauss/blog
+  - https://gitcode.com/opengauss/website
+  - https://gitcode.com/opengauss/docs
+  - https://gitcode.com/opengauss/blog
   # MindSpore
-  - https://gitee.com/mindspore/website-v2
   # infra
   - https://github.com/opensourceways/app-cla-webui
   - https://github.com/opensourceways/oneid-website
   - https://github.com/opensourceways/app-repo
   - https://github.com/opensourceways/openEuler-fully-theme
-  - https://github.com/opensourceways/datastat-manage-website
   # openUBMC
   - https://github.com/opensourceways/openUBMC-portal
 
