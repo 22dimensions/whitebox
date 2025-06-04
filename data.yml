@@ -1292,7 +1292,12 @@ users:
   - https://github.com/mindspore-lab/mindocr
   - https://github.com/mindspore-lab/models
   - https://github.com/opensourcedot/mindocr
-  - https://github.com/openvinotoolkit/openvino
+  - https://github.com/Ascend/cann-container-image
+  - https://github.com/vllm-project/vllm-ascend
+  - https://github.com/openmerlin/dockerfile
+  - https://github.com/openmerlin/image-build-tool
+  - https://gitee.com/openeuler/eulerpublisher
+  - https://gitee.com/openeuler/openeuler-docker-images
 
 - name: 'Junlong Zhang'
   gitee_id: 'Junlong1'
