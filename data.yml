@@ -759,6 +759,7 @@ users:
   github_id: 'jlcoo'
   repos:
   - https://github.com/jlcoo/opengpts
+  - https://github.com/opensourceways/easyhotopic
   
 - name: 'Wenjie Zhai'
   gitee_id: 'zwjsec'
