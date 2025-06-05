@@ -1505,4 +1505,12 @@ users:
   - https://gitee.com/confidential_computing/qemu
   - https://gitee.com/confidential_computing/edk2-stable202308-openeuler
 
-  
+- name: 'Feihu Tao'
+  gitee_id: 'tfhoo'
+  github_id: 'tfhddd'
+  repos_all_branches:
+  - https://github.com/opensourceways/om-webserver
+  - https://github.com/opensourceways/easyeditor-server
+  - https://github.com/opensourceways/oneid-workbench
+  - https://github.com/opensourceways/oneid-server
+  - https://github.com/opensourceways/helm-charts
