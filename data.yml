@@ -761,6 +761,8 @@ users:
   repos:
   - https://github.com/jlcoo/opengpts
   - https://github.com/opensourceways/easyhotopic
+  - https://github.com/opensourceways/hotopic-mining
+  - https://github.com/opensourceways/hotopic-data-clean
   
 - name: 'Wenjie Zhai'
   gitee_id: 'zwjsec'
