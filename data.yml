@@ -815,6 +815,11 @@ users:
   - https://github.com/PyTorch-China/tutorials
   - https://github.com/cosdt/torch_backend
   - https://github.com/cosdt/pytorch-integration-tests
+  - https://github.com/pytorch-fdn/ecosystem
+  - https://github.com/pytorch-fdn/oota
+  - https://github.com/vllm-project/vllm
+  - https://github.com/vllm-project/vllm-ascend
+  - https://github.com/pytorch/torchtune
 
 - name: 'Yuanhao Ji'
   gitee_id: 'tsund'
