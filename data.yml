@@ -67,6 +67,10 @@ users:
   - https://gitee.com/opensourceway/easymodel
   - https://gitee.com/opensourceway/easymodel-plugins
   - https://github.com/opensourceways/easyeditor-server
+  - https://github.com/opensourceways/om-dataarts
+  - https://github.com/opensourceways/om-deployment
+  - https://github.com/opensourceways/om-magicai
+  - https://github.com/opensourceways/DataMagic
   repos_all_branches:
   - https://gitee.com/opensourceway/EasySoftwareService
   - https://github.com/opensourceways/EasySoftwareService
@@ -1090,48 +1094,48 @@ users:
   gitee_id: "pony-leo"
   github_id: "leo-pony"
   repos:
-    - https://github.com/ggerganov/llama.cpp
-    - https://github.com/microsoft/onnxruntime
-    - https://github.com/huggingface/accelerate
-    - https://github.com/microsoft/DeepSpeed
-    - https://github.com/hipudding/llama.cpp
-    - https://github.com/zhongTao99/ollama
-    - https://github.com/ollama/ollama
+  - https://github.com/ggerganov/llama.cpp
+  - https://github.com/microsoft/onnxruntime
+  - https://github.com/huggingface/accelerate
+  - https://github.com/microsoft/DeepSpeed
+  - https://github.com/hipudding/llama.cpp
+  - https://github.com/zhongTao99/ollama
+  - https://github.com/ollama/ollama
     
 - name: 'Chao Feng'
   gitee_id: 'ibforu'
   github_id: 'ibfru'
   repos:
-    - https://gitee.com/openeuler/infrastructure
-    - https://gitee.com/openmind-ai/community
-    - https://gitee.com/openeuler/community
-    - https://github.com/opensourceways/server-common-lib
-    - https://github.com/opensourceways/community-robot-lib
-    - https://github.com/opensourceways/go-gitee
-    - https://github.com/opensourceways/robot-gitee-openeuler-review
-    - https://github.com/opensourceways/robot-gitee-opengauss-review
-    - https://github.com/opensourceways/robot-gitee-openeuler-welcome
-    - https://github.com/opensourceways/robot-gitee-welcome
-    - https://github.com/opensourceways/robot-gitee-label
-    - https://github.com/opensourceways/robot-gitee-approve
-    - https://github.com/opensourceways/robot-gitee-checkpr
-    - https://github.com/opensourceways/robot-gitee-lgtm
-    - https://github.com/opensourceways/robot-gitee-cla
-    - https://github.com/opensourceways/robot-gitee-review-trigger
-    - https://github.com/opensourceways/robot-gitee-tide
-    - https://github.com/opensourceways/robot-gitee-assign
-    - https://github.com/opensourceways/robot-gitee-lifecycle
-    - https://github.com/opensourceways/robot-gitee-scavenger
-    - https://github.com/opensourceways/mirrorbits
-    - https://github.com/opensourceways/go-gitcode
-    - https://github.com/opensourceways/robot-framework-lib
-    - https://github.com/opensourceways/robot-universal-hook-delivery
-    - https://github.com/opensourceways/robot-universal-access
-    - https://github.com/opensourceways/robot-universal-welcome
-    - https://github.com/opensourceways/robot-universal-review
-    - https://github.com/opensourceways/robot-universal-cla
-    - https://github.com/opensourceways/robot-universal-label
-    - https://github.com/opensourceways/robot-universal-lifecycle
+  - https://gitee.com/openeuler/infrastructure
+  - https://gitee.com/openmind-ai/community
+  - https://gitee.com/openeuler/community
+  - https://github.com/opensourceways/server-common-lib
+  - https://github.com/opensourceways/community-robot-lib
+  - https://github.com/opensourceways/go-gitee
+  - https://github.com/opensourceways/robot-gitee-openeuler-review
+  - https://github.com/opensourceways/robot-gitee-opengauss-review
+  - https://github.com/opensourceways/robot-gitee-openeuler-welcome
+  - https://github.com/opensourceways/robot-gitee-welcome
+  - https://github.com/opensourceways/robot-gitee-label
+  - https://github.com/opensourceways/robot-gitee-approve
+  - https://github.com/opensourceways/robot-gitee-checkpr
+  - https://github.com/opensourceways/robot-gitee-lgtm
+  - https://github.com/opensourceways/robot-gitee-cla
+  - https://github.com/opensourceways/robot-gitee-review-trigger
+  - https://github.com/opensourceways/robot-gitee-tide
+  - https://github.com/opensourceways/robot-gitee-assign
+  - https://github.com/opensourceways/robot-gitee-lifecycle
+  - https://github.com/opensourceways/robot-gitee-scavenger
+  - https://github.com/opensourceways/mirrorbits
+  - https://github.com/opensourceways/go-gitcode
+  - https://github.com/opensourceways/robot-framework-lib
+  - https://github.com/opensourceways/robot-universal-hook-delivery
+  - https://github.com/opensourceways/robot-universal-access
+  - https://github.com/opensourceways/robot-universal-welcome
+  - https://github.com/opensourceways/robot-universal-review
+  - https://github.com/opensourceways/robot-universal-cla
+  - https://github.com/opensourceways/robot-universal-label
+  - https://github.com/opensourceways/robot-universal-lifecycle
 
 - name: 'Yi Zhou'
   gitee_id: 'Zherphy'
@@ -1144,7 +1148,7 @@ users:
   - https://github.com/opensourceways/BigFiles
   - https://gitee.com/Zherphy/docs-ci
   repos_all_branches:
-    - https://github.com/opensourceways/om-webserver
+  - https://github.com/opensourceways/om-webserver
 
 - name: 'Xiaobao Liu'
   gitee_id: 'liulxb'
@@ -1183,9 +1187,9 @@ users:
   gitee_id: 'baibgj'
   github_id: 'GuangJie1'
   repos:
-    - https://gitee.com/openeuler/eulerpublisher
-    - https://gitee.com/openeuler/openeuler-docker-images
-    - https://gitee.com/oepkgs/oepkgs-management
+  - https://gitee.com/openeuler/eulerpublisher
+  - https://gitee.com/openeuler/openeuler-docker-images
+  - https://gitee.com/oepkgs/oepkgs-management
 
 - name: 'Chengzhi Xie'
   gitee_id: 'cccabushi'
