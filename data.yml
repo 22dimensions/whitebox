@@ -1472,7 +1472,7 @@ users:
   - https://gitee.com/opengauss-dev/cantian
 
 - name: 'OpenSource'
-  gitee_id: ''
+  gitee_id: 'common'
   github_id: ''
   repos:
   - https://github.com/huggingface/datatrove
