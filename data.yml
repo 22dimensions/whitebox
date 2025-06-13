@@ -1161,16 +1161,13 @@ users:
   gitee_id: 'Wenl4ng'
   github_id: 'Goalina'
   repos:
-  - https://github.com/openmerlin/gitea
-  - https://github.com/opensourceways/BigFiles
-  - https://github.com/openmerlin/git-access
-  - https://github.com/openmerlin/merlin-website
-  - https://gitee.com/modelers/gitea
-  - https://gitee.com/modelers/go-sdk
-  - https://gitee.com/modelers/git-access
+  - https://github.com/opensourceways/easywhisperx
+  - https://github.com/opensourceways/easypackages
   repos_all_branches:
-  - https://gitee.com/openmind-ai/openmind-hub
-  - https://gitee.com/modelers/openmind-hub
+  - https://gitee.com/ascend/openmind-hub
+  - https://github.com/opensourceways/BigFiles
+  - https://gitee.com/openeuler/wsl
+  - https://gitee.com/compass-ci/lkp-tests
   
 - name: 'Yan Zhao'
   gitee_id: 'zy960'
