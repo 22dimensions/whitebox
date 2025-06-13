@@ -1473,7 +1473,7 @@ users:
 
 - name: 'OpenSource'
   gitee_id: 'common'
-  github_id: ''
+  github_id: 'common'
   repos:
   - https://github.com/huggingface/datatrove
   - https://github.com/huggingface/transformers
