@@ -312,10 +312,13 @@ users:
   - https://gitee.com/ascend/pytorch
   - https://github.com/Linaro/ecosystemlandscape
   - https://github.com/cosdt/dockerfiles
+  - https://github.com/Ascend/Ascend-CI
   - https://github.com/pytorch/tutorials
   - https://github.com/Ascend/torch_npu
   - https://github.com/Ascend/docs
   - https://github.com/pytorch/rfcs
+  - https://gitee.com/ascend/triton-ascend
+  - https://github.com/pytorch/executorch
   repos_all_branches:
   - https://gitee.com/src-openeuler/openstack-cinder
   - https://gitee.com/src-openeuler/openstack-glance
