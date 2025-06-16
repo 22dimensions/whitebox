@@ -1306,6 +1306,10 @@ users:
   - https://github.com/openmerlin/image-build-tool
   - https://gitee.com/openeuler/eulerpublisher
   - https://gitee.com/openeuler/openeuler-docker-images
+  - https://gitee.com/src-openeuler/python-boto3
+  - https://gitee.com/src-openeuler/pybind11
+  - https://gitee.com/src-openeuler/python-behave
+  - https://gitee.com/src-openeuler/python-attrs
 
 - name: 'Junlong Zhang'
   gitee_id: 'Junlong1'
