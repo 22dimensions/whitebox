@@ -812,12 +812,16 @@ users:
   - https://github.com/opensourceways/message-transfer
   - https://github.com/opensourceways/message-push
   - https://github.com/opensourceways/message-manager
+  - https://github.com/opensourceways/codearts-ci-config
+  - https://github.com/opensourceways/istio-demo
   repos_all_branches:
   - https://github.com/opensourceways/message-collect
   - https://github.com/opensourceways/message-collect-githook
   - https://github.com/opensourceways/message-transfer
   - https://github.com/opensourceways/message-push
   - https://github.com/opensourceways/message-manager
+  - https://github.com/opensourceways/codearts-ci-config
+  - https://github.com/opensourceways/istio-demo
 
 - name: 'Zesheng Zong'
   gitee_id: 'hippocookie'
