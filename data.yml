@@ -404,6 +404,8 @@ users:
   - https://github.com/openmerlin/git-access
   - https://github.com/openmerlin/merlin-website
   - https://gitee.com/openeuler/infrastructure
+  - https://github.com/pkking/gitcode-tekton-interceptor/
+  - https://github.com/pkking/gitee-tekton-interceptor/
 
 - name: 'Wendong Cao'
   gitee_id: 'devin-cwd'
