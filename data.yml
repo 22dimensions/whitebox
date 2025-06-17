@@ -123,7 +123,6 @@ users:
   - https://github.com/omnibuildplatform/omni-scheduler
   - https://github.com/zengchen1024/obs-worker
   - https://github.com/opensourceways/test-infra
-  - https://github.com/opensourceways/app-cla-server
   - https://github.com/opensourceways/yabot
   - https://github.com/opensourceways/infra-mindspore
   - https://github.com/opensourceways/robot-gitee-review-trigger 
@@ -153,8 +152,15 @@ users:
   - https://github.com/opensourceways/xihe-training-center
   - https://github.com/opensourceways/xihe-inference-evaluate
   - https://github.com/opensourceways/xihe-gitlab-hook-delivery
-  - https://github.com/opensourceways/software-package-server
   - https://github.com/opensourceways/robot-gitee-software-package
+  repos_all_branches:
+  - https://github.com/zengchen1024/hot-topic-website-backend
+  - https://github.com/opensourceways/app-cla-server
+  - https://github.com/opensourceways/software-package-server
+  - https://github.com/opensourceways/software-package-gateway
+  - https://github.com/opensourceways/app-cla-stat
+  - https://github.com/opensourceways/software-package-github-server
+  - https://gitee.com/zengchen1024/compass-ci
 
 - name: 'TommyLike Hu'
   gitee_id: 'TommyLike'
