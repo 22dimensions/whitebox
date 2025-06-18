@@ -686,6 +686,10 @@ users:
   - https://github.com/open-compass/opencompass
   - https://github.com/noemotiovon/carefree-youth
   - https://github.com/noemotiovon/interesting-script
+  - https://github.com/ray-project/ray
+  - https://github.com/vllm-project/vllm-ascend
+  - https://github.com/open-source-now/technical-articles
+  - https://github.com/cosdt/AReaL
 
   
 - name: 'Weijun Lu'
