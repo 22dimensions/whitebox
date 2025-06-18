@@ -429,6 +429,8 @@ users:
   - https://github.com/Lightning-AI/pytorch-lightning
   - https://github.com/ggerganov/llama.cpp
   - https://github.com/ray-project/ray
+  - https://github.com/cosdt/dev_images
+  - https://github.com/cosdt/opensource-radar
 
 - name: 'Zhuangbang Gong'
   gitee_id: 'gzbang'
