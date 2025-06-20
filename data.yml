@@ -99,7 +99,11 @@ users:
   - https://github.com/opensourceways/xihe-sync-repo
   - https://github.com/opensourceways/space-k8s-operator
   - https://github.com/opensourceways/space-server
+  - https://github.com/opensourceways/space-server-monitor
   - https://github.com/opensourceways/flexcompute-server
+  - https://github.com/opensourceways/infra-audit-service
+  - https://github.com/opensourceways/xihe-gitea
+  - https://github.com/opensourceways/xihe-image-build
   - https://github.com/opensourceways/infra-mindspore
   - https://github.com/drizzlezyk/MindSpore-competition
   - https://github.com/drizzlezyk/xihe_tutorial
