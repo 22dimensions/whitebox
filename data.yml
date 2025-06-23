@@ -969,6 +969,7 @@ users:
     - https://gitee.com/modelers/openmind-resource-template
     - https://gitee.com/modelers/flexcompute-server
     - https://gitee.com/modelers/flexcompute-sdk
+    - https://github.com/cosdt/ai-tutorial
 
 - name: 'Xinpeng Dou'
   gitee_id: 'bachelor-dou'
